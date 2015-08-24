@@ -1,0 +1,4 @@
+procsnitch
+_examples/*
+!_examples/*.go
+
